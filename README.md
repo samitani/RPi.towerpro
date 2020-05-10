@@ -1,3 +1,6 @@
+# RPi.towerpro
+library to control TowerPro servo motors, by software PWM.
+
 # example
 ```
 import towerpro
